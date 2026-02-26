@@ -14,7 +14,7 @@
 ![Flyer2](https://github.com/user-attachments/assets/66b73ac4-7822-4eff-856d-141bbdabd2e2)
 
 # 60th Birthday Invitation
-![Helen 60th](https://github.com/user-attachments/assets/b26a05ed-5ad5-4b71-8119-eeb5421f4933)
+![birthday invite - sample portfolio](https://github.com/user-attachments/assets/7b633a2e-e6d4-4d13-b434-67282eb67f30)
 
 # Figma Diagram for Blessings Pass
 
