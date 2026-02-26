@@ -9,8 +9,9 @@
 ![COVIDformation _ first slide](https://github.com/user-attachments/assets/180dff54-4293-4d9a-bd5a-b366fe2c2f90)
 
 # Flyer for a Hospitality course at ETB
-[Flyer1.pdf](https://github.com/user-attachments/files/25582575/Flyer1.pdf)
-[Flyer2.pdf](https://github.com/user-attachments/files/25582576/Flyer2.pdf)
+![Flyer1](https://github.com/user-attachments/assets/a1cc8699-b4e4-4878-8af6-d25cf81f7fe8)
+
+![Flyer2](https://github.com/user-attachments/assets/66b73ac4-7822-4eff-856d-141bbdabd2e2)
 
 # Figma Diagram for Blessings Pass
 
