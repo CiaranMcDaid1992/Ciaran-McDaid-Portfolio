@@ -9,7 +9,7 @@
 ![COVIDformation _ first slide](https://github.com/user-attachments/assets/180dff54-4293-4d9a-bd5a-b366fe2c2f90)
 
 
-#Figma Diagram for Blessings Pass
+# Figma Diagram for Blessings Pass
 
 ![Figma - diagram](https://github.com/user-attachments/assets/d564960e-e4be-439d-8481-96432e21f5ee)
 
